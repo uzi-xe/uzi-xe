@@ -37,11 +37,3 @@ I'm a passionate developer interested in... (add your interests here, e.g., web 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uzi-xe&show_icons=true&theme=radical" alt="uzi-xe's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzi-xe&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzi-xe&layout=compact&theme=radical" alt="Top Languages" />
-</p>
