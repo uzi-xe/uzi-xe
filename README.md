@@ -8,4 +8,6 @@
 
 ## About Me
 + I'm just new here, learning things....
++ Languages I know:C,C++,Java
++ Skills:Not yet, but will be...
 
