@@ -1,4 +1,4 @@
-# Hi there, I'm uzi-xe!
+# Hi there, I'm Uzui (Just an alias!!)
 
 <div>
     <img src="https://i.pinimg.com/1200x/df/7e/3b/df7e3b299c4fbfa32fb5f5de80058dbd.jpg" width="230"/>
